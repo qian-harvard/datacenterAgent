@@ -1,0 +1,6 @@
+I am looking for a datacenter location with the following requirements:
+- Location: Texas
+- Land budget: Maximum $600,000 per acre
+- Electricity cost: Maximum $0.05 per kWh
+
+Please recommend some locations that match these criteria, prioritizing locations with the lowest electricity costs. 
